@@ -6,7 +6,7 @@ import argparse
 import concurrent.futures
 import random
 
-/*
+'''
 ██████╗ ██╗     ██╗   ██╗███████╗██████╗  █████╗ ███╗   ██╗██╗   ██╗██████╗ ███████╗
 ██╔══██╗██║     ██║   ██║██╔════╝██╔══██╗██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔════╝
 ██████╔╝██║     ██║   ██║█████╗  ██║  ██║███████║██╔██╗ ██║██║   ██║██████╔╝█████╗  
@@ -29,7 +29,7 @@ Requirements: Python3
 Other Notes: Replace nameservers with servers of your choice
 
                                                                                           
-*/
+'''
 
 
 
